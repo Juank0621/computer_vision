@@ -1,6 +1,6 @@
 # 🎞️ Computer Vision Projects 📸  
 
-Welcome to my **Computer Vision** repository! Here, you'll find a collection of projects focused on exploring advanced techniques in computer vision, covering tasks such as classification, segmentation, and transfer learning.  
+Welcome to my **Computer Vision** repository! Here, you'll find a collection of labs focused on exploring advanced techniques in computer vision, covering tasks such as classification, segmentation, and transfer learning.  
 
 My goal is to apply state-of-the-art models and develop creative solutions that bridge theory and practice in fields like artificial intelligence and deep learning. 🚀  
 
